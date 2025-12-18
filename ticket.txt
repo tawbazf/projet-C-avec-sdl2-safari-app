@@ -1,0 +1,9 @@
+========== TICKET SAFARI ==========
+Voyageur : salma salma
+Destination : Afrique du Sud
+Saison : Automne
+Activite : Randonnee vignobles
+Prix : 2100.00 (reduction 0.0%)
+Score : 20 points
+Badge : Expert Safari
+===================================
